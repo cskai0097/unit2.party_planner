@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;;
+}
+#party-list {
+    margin-bottom: 20px;
+}
+.party-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+button{
+    cursor: pointer;
+}
